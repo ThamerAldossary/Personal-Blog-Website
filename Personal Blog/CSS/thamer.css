@@ -1,0 +1,46 @@
+@media screen  and (min-width: 410px){
+
+.head1 {
+    text-align: left;
+    justify-content: left;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    background-image: url("../newimg/6.png");
+    font-size: 20px;
+
+}
+.img {
+    background-image: url("../newimg/starting-a-vegetarian-diet.jpeg");
+    height: 30vh;
+    background-color: #333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    width: 90%;
+    background-attachment: fixed;
+    position:absolute
+}
+#Thamers {
+    text-align: left;
+    margin: -10px;
+    display: grid;
+}
+.thamer {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: azure border 10px solid;
+    justify-content: space-evenly;
+    background-position: center top;
+    height: 100vh;
+    flex-direction: row-reverse;
+    display: flex;
+    
+}
+.box {
+    height: 700px;
+    border: 5px solid rgb(22, 2, 2);
+    width: 500px;
+}
+}
